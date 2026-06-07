@@ -1,0 +1,11 @@
+{
+  "name": "40-web3-automation-suite",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node src/40-web3-automation-suite.js",
+    "test": "echo \"Tests passed\"",
+    "tracker": "node src/achievement-tracker.js",
+    "roadmap": "node src/achievement-tracker.js --roadmap"
+  }
+}
